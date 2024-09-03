@@ -3,7 +3,7 @@ I'm a software developer with 7 years of experience in coding, architecture, col
 
 I'm currently looking for Senior Software Developer roles.
 
-## 🌐Socials
+# 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananirr/) 
 
 # 💻Tech Stack
