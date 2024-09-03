@@ -1,6 +1,8 @@
 # 💫About Me :
 I'm a software developer with 7 years of experience in coding, architecture, collaborating with cross-functional teams, mentoring, code reviewing, designing, and debugging, with a focus on solving complex problems.
 
+I'm currently looking for Senior Software Developer roles.
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananirr/) 
 
