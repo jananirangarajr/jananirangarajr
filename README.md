@@ -4,7 +4,7 @@ I'm a software developer with 7 years of experience in coding, architecture, col
 I'm currently looking for Senior Software Developer roles.
 
 # 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananirr/) ![Portfolio](https://img.shields.io/badge/portfolio-violet?logoColor=violet&link=https%3A%2F%2Fjananirangarajr.github.io%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jananirr/) [![Static Badge](https://img.shields.io/badge/portfolio-pink)](https://jananirangarajr.github.io)
 
 
 # 💻Tech Stack
